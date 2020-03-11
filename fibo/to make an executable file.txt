@@ -1,0 +1,20 @@
+go mod init + [modulename]
+go build
+./exe file
+
+go vet
+
+go doc
+
+go install >>> $Gopath >>> exe file
+
+go test
+
+
+pprof : analyze and investigate what happens
+
+go wrk
+
+go help
+
+go -torch  : measure performance
